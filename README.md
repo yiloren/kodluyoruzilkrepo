@@ -4,7 +4,7 @@
 #### Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğunuz ilk repo. İçerisinde bir adet 
 #### READ ME dosyası, bir adet de index.html barındırıyor.
 
-![Picture](kodluyoruzilkrepo\img)
+![Picture](https://github.com/yiloren/kodluyoruzilkrepo/blob/master/img/kodluyoruz_yatay_slogan_icon.png)
 
 ---
 ## **Instillation**
@@ -35,5 +35,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ----
 
-## **by ![Picture](\kodluyoruzilkrepo\img) [yiloren](https://twitter.com/ytanidir)**
+## **by ![Picture](https://github.com/yiloren/kodluyoruzilkrepo/blob/master/img/Twitter_icon.png) [yiloren](https://twitter.com/ytanidir)**
 
