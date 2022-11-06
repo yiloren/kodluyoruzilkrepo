@@ -38,5 +38,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## **by ![Picture](https://github.com/yiloren/kodluyoruzilkrepo/blob/master/img/Twitter_icon_small.png) [yiloren](https://twitter.com/ytanidir)**
 ---
 
-## **[patika.dev](www.patika.dev)**
+## **[patika.dev/yiloren](https://app.patika.dev/yiloren)**
 ---
